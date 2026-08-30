@@ -25,7 +25,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 ### Tech Stack 🛠️
 
 **Languages & Core:**
-`Python` · `SQL` · `Shell` · `Typecript` · C#
+`Python` · `SQL` · `Shell` · `Typecript` · `C#`
 
 **AI/ML & Agents:**
 `LangChain` · `LangGraph` · Pipecat ·  `OpenAI SDK SDK` · `LiteLLM` · Knowledge Graph  · `Vector Databases` `AI-UI`
@@ -83,7 +83,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 | Metric | Value |
 |--------|-------|
 | **Total Repositories** | 45 |
-| **Certifications** | 2 (NVidia) |
+| **Certifications** | 1 (NVidia) |
 | **Primary Languages** | Python, C#, SQL, TypeScript |
 | **Categories** | 10 focus areas |
 
