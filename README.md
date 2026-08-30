@@ -92,7 +92,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 ### Get In Touch 📬
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javier-monreal-tolmo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/javier-monreal-tolmo-08161036/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://github.com/jamontol"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
