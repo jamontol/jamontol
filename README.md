@@ -83,7 +83,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 
 | Metric | Value |
 |--------|-------|
-| **Total Repositories** | 45 |
+| **Total Repositories** | 48 |
 | **Certifications** | 1 (NVidia) |
 | **Primary Languages** | Python, SQL, TypeScript |
 | **Categories** | 10 focus areas |
