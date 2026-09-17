@@ -85,7 +85,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 |--------|-------|
 | **Total Repositories** | 45 |
 | **Certifications** | 1 (NVidia) |
-| **Primary Languages** | Python, C#, SQL, TypeScript |
+| **Primary Languages** | Python, SQL, TypeScript |
 | **Categories** | 10 focus areas |
 
 ---
