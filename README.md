@@ -40,7 +40,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
  `BigQuery`
 
 **Cloud & Infrastructure:**
-`AWS` · `GCP` · `Docker` · `Cloud Run` · Fargate · `Lambda` · 
+`AWS` · `GCP` · `Docker` · `Cloud Run` · `Fargate` · `Lambda` · 
 
 **Databases:**
 `PostgreSQL` · `MongoDB` · `Redis` · `OpenSearch`
