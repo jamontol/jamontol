@@ -19,7 +19,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 ### Certifications 🏅
 
 <p>
-  <img src="https://img.shields.io/badge/NVIDIA-Certified_Associate:-FF9900?style=for-the-badge&logo=nvidias" alt="AWS ML"/>
+  <img src="https://img.shields.io/badge/NVIDIA-Certified_Associate -FF9900?style=for-the-badge&logo=nvidias" alt="AWS ML"/>
 </p>
 
 ### Tech Stack 🛠️
