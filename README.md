@@ -31,7 +31,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 `LangChain` · `LangGraph` · `Pipecat` · `Pydantic AI` · `LiteLLM` · `Knowledge Graph`  · `Vector Databases` `AI-UI`
 
 **Vector and KG Databases**:  
-`Postgres`, `Qdrant`, `MongoDB`, `OpenSearch`, `FAISS` | Neo4j, Graphiti;
+`Postgres`, `Qdrant`, `MongoDB`, `OpenSearch`, `FAISS` | `Neo4j`, `Graphiti`;
 
 **Python & ML Engineering:**
 `FastAPI` · `FastMCP` · `SQLAlchemy` · `Scikit-learn` · `Pytorch` · `Pandas` · `NumPy` · `Model Training` · `Model Deployment` · `Model Serving` · `Model Evaluation`
