@@ -28,13 +28,13 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 `Python` · `SQL` · `Shell` · `Typecript` · `C#`
 
 **AI/ML & Agents:**
-`LangChain` · `LangGraph` · Pipecat ·  `OpenAI SDK SDK` · `LiteLLM` · Knowledge Graph  · `Vector Databases` `AI-UI`
+`LangChain` · `LangGraph` · `Pipecat` ·  `OpenAI SDK SDK` · `LiteLLM` · Knowledge Graph  · `Vector Databases` `AI-UI`
 
 **Vector and KG Databases**:  
-`Postgres`, `Qdrant`, `MpngoDB`, `OpenSearch`, `FAISS` | Neo4j, Graphiti;
+`Postgres`, `Qdrant`, `MongoDB`, `OpenSearch`, `FAISS` | Neo4j, Graphiti;
 
 **Python & ML Engineering:**
-`FastAPI` · `FastMCP` · `SQLAlchemy` · `Scikit-learn` · `Pytorch` · `Pandas` · `NumPy` · `Pickle (pkl)` · `Model Training` · `Model Deployment` · `Model Serving` · `Model Evaluation`
+`FastAPI` · `FastMCP` · `SQLAlchemy` · `Scikit-learn` · `Pytorch` · `Pandas` · `NumPy` · `Model Training` · `Model Deployment` · `Model Serving` · `Model Evaluation`
 
 **Data Engineering:**
  `BigQuery`
@@ -43,10 +43,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 `AWS` · `GCP` · `Docker` · `Cloud Run` · Fargate · `Lambda` · 
 
 **Databases:**
-`PostgreSQL` · `MongoDB` · `Redis` · OpneSearch
-
-**Java/JEE & Scala:**
-`Java` · `JEE` · `Spring` · `Spring Boot` · `Spring ORM` · `Hibernate` · `JPA` · `JSP` · `Servlets` · `EJB` · `Scala` · `Microservices` · `REST APIs` · `Maven` · `Gradle`
+`PostgreSQL` · `MongoDB` · `Redis` · `OpenSearch`
 
 ---
 
@@ -55,13 +52,14 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 - 🔬 **AI Agent Systems** — Multi-agent orchestration, dynamic agentic workflows, production-ready agentic template, A2UI communication
 - 📊 **Document Intelligence** — Advanced document extraction and document understanding
 - 🛠️ **MCP Servers** — Auth for Model Context Protocol 
-- 🚀 **LangGraph Implementations** — Multimodal agent workflow, HITL systems, text2SQL, agentic RAG, dynamic workflows
+- 🚀 **LangGraph Implementations** — Multimodal agent workflow, Declarative workflows, HITL systems, text2SQL, agentic RAG, dynamic workflows
 - 🌍 **Cloud-Native AI** — GenAI e2e infrastructure scaffolding, serverless deployments, trazability and e2e observability on AWS 
 
 ### Featured Projects ⭐
 
 - ⭐ **[Production-ready LangGraph template ]([https://github.com/anjijava16/GCP_Data_Enginner_Utils](https://github.com/jamontol/fastapi-langgraph-agent-production))** — Aegra 
 - ⭐ **[Multimodal Supervisor agent]([https://github.com/anjijava16/Databricks-GenAI](https://github.com/jamontol/langraph-multimodal-supervisor))** — — `LangGraph`
+
 
 
 
