@@ -57,12 +57,12 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 
 ### Featured Projects ⭐
 
-- ⭐ **[Production-ready LangGraph template ] ([https://github.com/jamontol/fastapi-langgraph-agent-production])** — `Aegra` 
+- ⭐ **[Production-ready LangGraph template ] ([https://github.com/jamontol/fastapi-langgraph-agent-production])** — `LangGraph & Aegra` 
 - ⭐ **[Multimodal Supervisor agent] ([https://github.com/jamontol/langraph-multimodal-supervisor])** — `LangGraph`
 - ⭐ **[Text2SQL with HITP capabilities] ([https://github.com/jamontol/Text2SQL])** — `LangGraph`
 - ⭐ **[RAG Building Block] ([https://github.com/jamontol/rag-building-block])** - `RAG & Knowledge Graph`
-- ⭐ **[Declarative Multi-agent workflow] ([https://github.com/jamontol/langgraph-multiagent-supervisor])** - `YAML`
-- ⭐ **[Pipecat orchestrator for HeyGen Avatar]** - `Pipecat`
+- ⭐ **[Declarative Multi-agent workflow] ([https://github.com/jamontol/langgraph-multiagent-supervisor])** - `YAML & LangGraph`
+- ⭐ **[Pipecat orchestrator for HeyGen Avatar]** - `Pipecat & MongoDB`
 - ⭐ **[Machine Learning Prediction building Block] ([https://github.com/jamontol/ML-Prediction])** — ** - `Scikit`
 
 
