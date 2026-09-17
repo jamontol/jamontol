@@ -99,5 +99,5 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 
 ---
 
-<p align="center"><b>"Bridging data infrastructure and intelligent AI systems to solve enterprise challenges at scale."</b></p>
-<p align="center"><i>AI Engineer · Data Scientist · 45 Projects · Building the future with AI agents</i></p>
+<p align="center"><b>"Bridging infrastructure and intelligent AI systems to solve enterprise challenges."</b></p>
+<p align="center"><i>AI Engineer · Data Scientist · 48 Projects · Discovering the future with AI agents</i></p>
