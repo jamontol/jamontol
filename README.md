@@ -57,10 +57,9 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 
 ### Featured Projects ⭐
 
-- ⭐ **[Production-ready LangGraph template ]([https://github.com/anjijava16/GCP_Data_Enginner_Utils](https://github.com/jamontol/fastapi-langgraph-agent-production))** — Aegra 
-- ⭐ **[Multimodal Supervisor agent]([https://github.com/anjijava16/Databricks-GenAI](https://github.com/jamontol/langraph-multimodal-supervisor))** — — `LangGraph`
-
-
+- ⭐ **[Production-ready LangGraph template ]([https://github.com/anjijava16/GCP_Data_Enginner_Utils](https://github.com/jamontol/fastapi-langgraph-agent-production))** — `Aegra` 
+- ⭐ **[Multimodal Supervisor agent]([https://github.com/anjijava16/Databricks-GenAI](https://github.com/jamontol/langraph-multimodal-supervisor))** — `LangGraph`
+- ⭐ **[Declarative Multi-agent workflow] ** - 'YAML`
 
 
 ### GitHub Stats 📈
