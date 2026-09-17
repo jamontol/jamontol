@@ -10,7 +10,7 @@
 
 ### About Me 🌐
 
-I'm an **AI Engineer** and **Data Scientist** passionate about architecting intelligent agent systems, scalable data solutions, and enterprise-grade applications. I specialize in designing **multi-agent orchestration systems** and **RAG architectures** — powered by a strong foundation in **Generative AI**, **Predictive AI**, **Cloud Technologies**, and **Microservices**.
+I'm an **AI Engineer** and **Data Scientist** passionate about architecting intelligent agent systems, scalable AI solutions, and enterprise-grade applications. I specialize in designing **multi-agent orchestration systems** and **RAG architectures** — powered by a strong foundation in **Generative AI**, **Predictive AI**, **Cloud Technologies**, and **Microservices**.
 
 - 🤖 **AI/ML & Agents** — Multi-agent orchestration, RAG systems, LangGraph, HITL, Pydantic AI, and intelligent automation
 - ☁️ **Cloud Engineering** — Multi-cloud (AWS, GCP) and serverless architectures
