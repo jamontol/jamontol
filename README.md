@@ -28,7 +28,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 `Python` · `SQL` · `Shell` · `Typecript` · `C#`
 
 **AI/ML & Agents:**
-`LangChain` · `LangGraph` · `Pipecat` ·  `OpenAI SDK SDK` · `LiteLLM` · Knowledge Graph  · `Vector Databases` `AI-UI`
+`LangChain` · `LangGraph` · `Pipecat` ·  `OpenAI SDK SDK` · `LiteLLM` · `Knowledge Graph`  · `Vector Databases` `AI-UI`
 
 **Vector and KG Databases**:  
 `Postgres`, `Qdrant`, `MongoDB`, `OpenSearch`, `FAISS` | Neo4j, Graphiti;
@@ -60,7 +60,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 - ⭐ **[Production-ready LangGraph template ]([https://github.com/jamontol/fastapi-langgraph-agent-production])** — `Aegra` 
 - ⭐ **[Multimodal Supervisor agent]([https://github.com/jamontol/langraph-multimodal-supervisor])** — `LangGraph`
 - ⭐ **[Text2SQL with HILP capabilities]([https://github.com/jamontol/langraph-multimodal-supervisor])** — `LangGraph`
-- ⭐ **[RAG Building Block] ([https://github.com/jamontol/rag-building-block])** - 'RAG`
+- ⭐ **[RAG Building Block] ([https://github.com/jamontol/rag-building-block])** - 'RAG & Knowledge Graph`
 - ⭐ **[Declarative Multi-agent workflow]** - 'YAML`
 - ⭐ **[Pipecat orchestrator for HeyGen Avatar]** - 'Pipecat`
 - ⭐ **[Machine Learning Prediction building Block] ([https://github.com/jamontol/ML-Prediction])** — ** - 'Scikit`
