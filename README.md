@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/javier-monreal-tolmo/"><img src="https://img.shields.io/badge/LinkedIn-jamontol-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://github.com/jamontol"><img src="https://img.shields.io/badge/GitHub-jamontol?style=flat&logo=github" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=jamontol&label=Profile+Views&color=blue&style=flat&base=0" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jamontol&label=Profile+Views&color=blue&style=flat&base=200" alt="Profile views"/>
 </p>
 
 ## 🤖 AI Engineer | Agent Systems Builder | Data Scientist
