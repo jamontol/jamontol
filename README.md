@@ -28,7 +28,7 @@ I'm an **AI Engineer** and **Data Scientist** passionate about architecting inte
 `Python` · `SQL` · `Shell` · `Typecript` · `C#`
 
 **AI/ML & Agents:**
-`LangChain` · `LangGraph` · `Pipecat` ·  `OpenAI SDK SDK` · `LiteLLM` · `Knowledge Graph`  · `Vector Databases` `AI-UI`
+`LangChain` · `LangGraph` · `Pipecat` · `Pydantic AI` · `LiteLLM` · `Knowledge Graph`  · `Vector Databases` `AI-UI`
 
 **Vector and KG Databases**:  
 `Postgres`, `Qdrant`, `MongoDB`, `OpenSearch`, `FAISS` | Neo4j, Graphiti;
